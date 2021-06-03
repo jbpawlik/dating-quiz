@@ -1,0 +1,8 @@
+.btn {
+  border: 2px black;
+  border-radius: 10px;
+}
+
+#celebrity {
+  display: none;
+}
